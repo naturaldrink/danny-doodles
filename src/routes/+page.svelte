@@ -1,15 +1,15 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	// import Counter from './Counter.svelte';
+	// import welcome from '$lib/images/svelte-welcome.webp';
+	// import welcome_fallback from '$lib/images/svelte-welcome.png';
 </script>
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Danny Doodles" />
 </svelte:head>
 
-<section>
+<!-- <section>
 	<h1>
 		<span class="welcome">
 			<picture>
@@ -26,9 +26,9 @@
 	</h2>
 
 	<Counter />
-</section>
+</section> -->
 
-<style>
+<!-- <style>
 	section {
 		display: flex;
 		flex-direction: column;
@@ -56,4 +56,4 @@
 		top: 0;
 		display: block;
 	}
-</style>
+</style> -->
